@@ -8,6 +8,7 @@ header{
 	padding-bottom: 50px;
 	
 }
+
 h1,h2{
 	font-family: 'Permanent Marker', cursive;
 	color: #01120F;
@@ -15,19 +16,22 @@ h1,h2{
 
 header h1{
 	color: white;
-	font-size: 45px;
+	font-size: 85px;
 	
 }
 header img{
-	border-radius: 300px;
-	width: 150px;
-	border: 5px solid black;
+	
+	border-radius: 500px;
+	width: 375px;
+	height: 375px;
+	border: 15px solid black;
+
 }
 
 main{
-	max-width: 800px;
+	max-width: 1000px;
 	margin: 0 auto;
-	padding: 0 20px;
+	padding: 100px 20px;
 
 }
 main img{
@@ -35,11 +39,15 @@ main img{
 }
 
 h2{
-	font-size: 35px;
+	font-size: 50px;
 }
 
+ li{
+ 	font-size: 30px;
+ }
  li a{
 	color: black;
+
 }
  li a:hover{
 	color: #9FBA17;
@@ -59,6 +67,9 @@ footer a:hover{
 	opacity: .45;
 	background-color: transparent;
 	}
+p{
+	font-size: 33.5px;
+}
 p.caption{
 	text-align: center;
 }
